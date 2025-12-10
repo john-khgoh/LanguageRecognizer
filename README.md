@@ -40,3 +40,6 @@ print(output)
 Version 0.0.1: Initial release.  
 Version 0.0.2: Readme.md update.   
 Version 0.0.3: Available for Windows, Linux and MacOS.  
+
+### Special thanks
+A special thanks to [spaCy](https://spacy.io/) and [NLTK](https://www.nltk.org/).  
